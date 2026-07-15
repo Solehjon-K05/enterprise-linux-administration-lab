@@ -18,4 +18,4 @@ mkdir ~/SpaceX
 mkdir -p ~/SpaceX/emusk/{Desktop,Documents,Downloads,Projects,Scripts}
 tree ~/SpaceX
 
-![alt text](Ticket-001-Create-Company-Structure.png)
+![alt text](Ticket-001-Create-Company-Structure-1.png)
