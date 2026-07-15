@@ -16,7 +16,6 @@ Create an employee record for Elon Musk inside the company directory.
 
 ```bash
 cat ~/SpaceX/emusk/Documents/EmployeeInfo.txt
-```
 
 ## Expected Result
 

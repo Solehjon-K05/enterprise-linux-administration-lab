@@ -17,5 +17,12 @@ Create the initial company workspace and employee directory structure.
 mkdir ~/SpaceX
 mkdir -p ~/SpaceX/emusk/{Desktop,Documents,Downloads,Projects,Scripts}
 tree ~/SpaceX
+```
 
-![alt text](Ticket-001-Create-Company-Structure-1.png)
+## Outcome
+
+Successfully created and verified the initial company directory structure.
+
+## Screenshot
+
+![Company Structure](Ticket-001-Create-Company-Structure-1.png)
