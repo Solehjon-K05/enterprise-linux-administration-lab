@@ -25,4 +25,4 @@ Successfully created and verified the initial company directory structure.
 
 ## Screenshot
 
-![Company Structure](Ticket-001-Create-Company-Structure-1.png)
+![alt text](Ticket-001-Create-Company-Structure-1.png)
