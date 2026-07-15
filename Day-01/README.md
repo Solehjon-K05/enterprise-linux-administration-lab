@@ -1,40 +1,63 @@
-# Enterprise Linux Administration Lab
+# Day 1 - Enterprise Linux Administration Lab
 
-A hands-on Linux system administration project completed using Ubuntu in Oracle VirtualBox.
+## Overview
 
-This lab simulates common entry-level Linux administration responsibilities within a fictional aerospace company environment. Tasks are documented as internal IT tickets and include commands, outcomes, and verification screenshots.
+On Day 1, I focused on building the foundation of a simulated enterprise Linux environment using Ubuntu. The goal was to practice common Linux system administration tasks in a realistic setting while documenting each task as an IT support ticket.
 
-## Lab Environment
-
-- Ubuntu Linux
-- Oracle VirtualBox
-- Bash shell
-- Git and GitHub
+---
 
 ## Skills Practiced
 
-- Linux filesystem navigation
-- File and directory management
-- User account provisioning
-- Group administration
+- Linux file and directory management
+- Creating and organizing directory structures
+- User account creation and management
 - File permissions and ownership
-- Shared project directories
-- Project backups
-- File and directory searching
-- Technical documentation
+- Shared directory permissions
+- Project documentation
+- Creating backups
+- File and directory searching using `find`
+- Reading file contents with `cat`
 
-## Progress
+---
 
-| Day | Tickets | Status |
-|---|---:|---|
-| [Day 01](Day-01/) | 001–010 | Completed |
-| Day 02 | 011–020 | Planned |
-| Day 03 | 021–030 | Planned |
-| Day 04 | 031–040 | Planned |
-| Day 05 | 041–050 | Planned |
+## Tickets Completed
 
-## Day 01 Summary
+| Ticket | Description |
+|---------|-------------|
+| 001 | Create Company Structure |
+| 002 | Create Employee Record |
+| 003 | Verify Employee Files |
+| 004 | Create User |
+| 005 | Engineering Department Setup |
+| 006 | Create Falcon9 Project |
+| 007 | Project Documentation |
+| 008 | Shared Project Permissions |
+| 009 | Backup Project |
+| 010 | Find Files and Directories |
 
-During Day 1, I created a simulated company workspace, provisioned an employee account, configured an Engineering directory, created the Falcon9 project structure, managed shared permissions, created a project backup, and searched for files using Linux commands.
+---
 
-> This project is an independent educational simulation and is not affiliated with SpaceX.
+## Commands Practiced
+
+- `mkdir`
+- `tree`
+- `cat`
+- `ls`
+- `useradd`
+- `passwd`
+- `id`
+- `chmod`
+- `cp`
+- `find`
+
+---
+
+## What I Learned
+
+Although I was already familiar with many of these Linux commands, this lab helped me apply them in a realistic system administration workflow. Instead of completing isolated exercises, I documented each task as an IT support ticket, making the project more representative of real-world Linux administration.
+
+---
+
+## Next Steps
+
+Day 2 will focus on additional Linux administration tasks, continuing to build practical experience through hands-on projects and documentation.
