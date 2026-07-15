@@ -17,3 +17,5 @@ tree
 ## Outcome
 
 Successfully created the initial company structure.
+
+![alt text](Ticket-001-Create-Company-Structure.png)
